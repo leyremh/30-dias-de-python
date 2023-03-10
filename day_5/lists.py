@@ -56,7 +56,12 @@ it_compaines.clear()
 front_end = ['HTML','CSS','JS' 'Redux']
 back_end = ['Node', 'Express', 'MongoDB']
 
-full_stack.insert(5,'Python' )
+full_stack = front_end
+print(full_stack)
+full_stack.insert(5,"Python")
+
+full_stack[5] = "Python"
+
 
 
 

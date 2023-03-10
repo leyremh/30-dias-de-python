@@ -1,10 +1,17 @@
+
 empty_tuple= ()
-tpl=('lucia')
-name_sister= ('lucia')
-name_brother= ('pepe')
+
+tpl=('lucas')
+
+name_sister= ('elena')
+name_brother= ('lucas')
+
 siblings= ('lucia','pepe')
-name_mother= ('vanessa')
-name_father= ('eloy')
-parents= ('vanessa', 'eloy')
-family= ('pepe','lucia','vanessa','eloy')
+
+name_mother= ('carmen')
+name_father= ('juan')
+
+parents= ('carmen', 'juan')
+
+family= ('elena','lucas','carmen','juan')
 family=list(tpl)
